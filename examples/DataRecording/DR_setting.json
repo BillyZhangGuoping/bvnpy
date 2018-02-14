@@ -3,31 +3,35 @@
 
     "tick":
     [
-        ["rb1801", "CTP"],
-        ["m1801", "CTP"],
-        ["SR801", "CTP"],
-        ["IF1712", "CTP"],
-        ["IH1712", "CTP"],
-        ["IC1712", "CTP"]
+        ["rb1802", "CTP"],
+        ["rb1803", "CTP"],
+        ["rb1805", "CTP"],
+        ["m1803", "CTP"],
+        ["SR803", "CTP"],
+        ["IF1803", "CTP"],
+        ["IH1803", "CTP"],
+        ["IC1803", "CTP"]
     ],
 
     "bar":
     [
-        ["rb1801", "CTP"],
-        ["m1801", "CTP"],
-        ["SR801", "CTP"],
-        ["IF1712", "CTP"],
-        ["IH1712", "CTP"],
-        ["IC1712", "CTP"]
+        ["rb1802", "CTP"],
+        ["rb1803", "CTP"],
+        ["rb1805", "CTP"],
+        ["m1803", "CTP"],
+        ["SR803", "CTP"],
+        ["IF1803", "CTP"],
+        ["IH1803", "CTP"],
+        ["IC1803", "CTP"]
     ],
 
     "active":
     {
-        "rb.HOT": "rb1801",
-        "m.HOT": "m1801",
-        "SR.HOT": "SR801",
-        "IF.HOT": "IF1712",
-        "IH.HOT": "IH1712",
-        "IC.HOT": "IC1712"   
+        "rb.HOT": "rb1805",
+        "m.HOT": "m1803",
+        "SR.HOT": "SR803",
+        "IF.HOT": "IF1803",
+        "IH.HOT": "IH1803",
+        "IC.HOT": "IC1803"   
     }
 }

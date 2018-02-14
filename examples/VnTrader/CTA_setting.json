@@ -15,5 +15,15 @@
         "name": "king keltner",
         "className": "KkStrategy",
         "vtSymbol": "IH1802"
+    },
+
+    {
+        "name": "Boll Channel rb",
+        "className": "BollChannelStrategy",
+        "vtSymbol": "rb1805",
+        "bollWindow": 21,
+        "bollDev": 3.7,
+        "cciWindow": 13,
+        "fixedSize":2
     }
 ]

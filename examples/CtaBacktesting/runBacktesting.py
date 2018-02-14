@@ -11,7 +11,7 @@ from vnpy.trader.app.ctaStrategy.ctaBacktesting import BacktestingEngine, MINUTE
 
 
 if __name__ == '__main__':
-    from vnpy.trader.app.ctaStrategy.strategy.strategyAtrRsi import AtrRsiStrategy
+    from vnpy.trader.app.ctaStrategy.strategy.strategyKingKeltner import KkStrategy
     
     # 创建回测引擎
     engine = BacktestingEngine()
@@ -20,7 +20,7 @@ if __name__ == '__main__':
     engine.setBacktestingMode(engine.BAR_MODE)
 
     # 设置回测用的数据起始日期
-    engine.setStartDate('20160101')
+    engine.setStartDate('20120101')
     
     # 设置产品相关参数
     engine.setSlippage(0.2)     # 股指1跳
@@ -32,8 +32,8 @@ if __name__ == '__main__':
     engine.setDatabase(MINUTE_DB_NAME, 'IF0000')
     
     # 在引擎中创建策略对象
-    d = {'rsiLength': 5, 'atrMa': 20, 'atrLength': 12}
-    engine.initStrategy(AtrRsiStrategy, d)
+    d = {}
+    engine.initStrategy(KkStrategy, d)
     
     # 开始跑回测
     engine.runBacktesting()
