@@ -1,0 +1,33 @@
+[16:44:57.275][12640][INFO][XTP:0][init_log_file]:End: C:/Users/i333248/Documents/VNPY/vnpy-1.7.3/examples/VnTrader/temp/XTP/log/trade.log, api version : 1.1.16.9
+[16:44:57.283][12640][INFO][XTP:0]Begin to init trader api.
+[16:44:57.284][12640][INFO][XTP:0]Begin to register service function.
+[16:44:57.284][12640][DEBUG][XTP:0]resgister service function ok(3102).
+[16:44:57.284][12640][DEBUG][XTP:0]resgister service function ok(3110).
+[16:44:57.284][12640][DEBUG][XTP:0]resgister service function ok(3114).
+[16:44:57.284][12640][DEBUG][XTP:0]resgister service function ok(3118).
+[16:44:57.284][12640][DEBUG][XTP:0]resgister service function ok(3142).
+[16:44:57.297][12640][DEBUG][XTP:0]resgister service function ok(3146).
+[16:44:57.298][12640][DEBUG][XTP:0]resgister service function ok(3108).
+[16:44:57.298][12640][DEBUG][XTP:0]resgister service function ok(3104).
+[16:44:57.298][12640][DEBUG][XTP:0]resgister service function ok(53).
+[16:44:57.298][12640][DEBUG][XTP:0]resgister service function ok(51).
+[16:44:57.298][12640][DEBUG][XTP:0]resgister service function ok(52).
+[16:44:57.298][12640][DEBUG][XTP:0]resgister service function ok(9).
+[16:44:57.298][12640][DEBUG][XTP:0]resgister service function ok(3132).
+[16:44:57.298][12640][DEBUG][XTP:0]resgister service function ok(3206).
+[16:44:57.298][12640][DEBUG][XTP:0]resgister service function ok(3128).
+[16:44:57.298][12640][DEBUG][XTP:0]resgister service function ok(3126).
+[16:44:57.298][12640][DEBUG][XTP:0]resgister service function ok(3136).
+[16:44:57.298][12640][DEBUG][XTP:0]resgister service function ok(3138).
+[16:44:57.298][12640][DEBUG][XTP:0]resgister service function ok(3148).
+[16:44:57.298][12640][DEBUG][XTP:0]resgister service function ok(3150).
+[16:44:57.298][12640][INFO][XTP:0]End to register service function 1.
+[16:44:57.298][12640][DEBUG][XTP:0]Begin to init terminal info.
+[16:44:57.305][2620][INFO][XTP:0]api aux thread start ...
+[16:44:57.306][12640][DEBUG][XTP:0]End to init terminal info.
+[16:44:57.306][12640][DEBUG][XTP:0]Init order manager.
+[16:44:57.306][12640][DEBUG][XTP:0]order manager Initialize.
+[16:44:57.332][12640][INFO][XTP:0]Init trader api success.
+[16:44:57.332][12640][DEBUG][XTP:0]Begin to set software key : 请联系中泰证券申请.
+[16:44:57.332][12640][INFO][XTP:0]Begin to login to oms server 120.27.164.69:6001.
+[16:45:07.335][12640][ERROR][XTP:10210000]请联系中泰证券申请 login to oms server 120.27.164.69:6001 failed.[xtp_trader_private_api.cpp:287][XTP:1]connect server failed.[xbase_login.cpp:28]

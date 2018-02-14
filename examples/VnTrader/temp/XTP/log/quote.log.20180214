@@ -1,0 +1,27 @@
+[16:44:47.263][12640][INFO][XTP:0][init_log_file]:End: C:/Users/i333248/Documents/VNPY/vnpy-1.7.3/examples/VnTrader/temp/XTP/log/quote.log, api version : 1.1.16.9
+[16:44:47.263][17668][INFO][XTP:0]api aux thread start ...
+[16:44:47.266][12640][DEBUG][XTP:0]Begin to register quote service function.
+[16:44:47.266][12640][DEBUG][XTP:0]resgister service function ok(2250).
+[16:44:47.266][12640][DEBUG][XTP:0]resgister service function ok(2001).
+[16:44:47.266][12640][DEBUG][XTP:0]resgister service function ok(2002).
+[16:44:47.266][12640][DEBUG][XTP:0]resgister service function ok(2003).
+[16:44:47.266][12640][DEBUG][XTP:0]resgister service function ok(2200).
+[16:44:47.266][12640][DEBUG][XTP:0]resgister service function ok(2201).
+[16:44:47.266][12640][DEBUG][XTP:0]resgister service function ok(2202).
+[16:44:47.266][12640][DEBUG][XTP:0]resgister service function ok(2210).
+[16:44:47.266][12640][DEBUG][XTP:0]resgister service function ok(2211).
+[16:44:47.267][12640][DEBUG][XTP:0]resgister service function ok(2212).
+[16:44:47.267][12640][DEBUG][XTP:0]resgister service function ok(2011).
+[16:44:47.267][12640][DEBUG][XTP:0]resgister service function ok(51).
+[16:44:47.267][12640][DEBUG][XTP:0]resgister service function ok(53).
+[16:44:47.267][12640][DEBUG][XTP:0]resgister service function ok(9).
+[16:44:47.267][12640][DEBUG][XTP:0]resgister service function ok(2005).
+[16:44:47.267][12640][DEBUG][XTP:0]resgister service function ok(2006).
+[16:44:47.267][12640][DEBUG][XTP:0]resgister service function ok(2205).
+[16:44:47.267][12640][DEBUG][XTP:0]resgister service function ok(2206).
+[16:44:47.267][12640][DEBUG][XTP:0]resgister service function ok(2215).
+[16:44:47.267][12640][DEBUG][XTP:0]resgister service function ok(2216).
+[16:44:47.267][12640][DEBUG][XTP:0]resgister service function ok(2012).
+[16:44:47.267][12640][DEBUG][XTP:0]End to register quote service function 1.
+[16:44:47.267][12640][INFO][XTP:0]Begin to login to quote server 120.27.164.138:6002.
+[16:44:57.271][12640][ERROR][XTP:10200000]请联系中泰证券申请 login to quote server 120.27.164.138:6002 failed.[xtp_quote_private_api.cpp:834][XTP:1]connect server failed.[xbase_login.cpp:28]
